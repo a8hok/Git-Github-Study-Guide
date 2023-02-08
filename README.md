@@ -8,7 +8,7 @@
   - [https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/](https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/)<br>
 
 ## Git advanced
-  - []()<br>
+  - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
  
 ## Git rarely used
   - []()<br>
