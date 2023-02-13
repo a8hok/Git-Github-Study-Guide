@@ -10,5 +10,5 @@
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
  
-## Git rarely used
-  - []()<br>
+## Git do's and dont's
+  - [https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)<br>
