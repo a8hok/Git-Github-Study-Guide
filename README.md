@@ -6,6 +6,7 @@
   - [https://dev.to/jasonh33/git-commit-patterns-5dm7](https://dev.to/jasonh33/git-commit-patterns-5dm7)<br>
   - [https://dev.to/devland/20-git-commands-that-will-make-you-a-version-control-pro-149p](https://dev.to/devland/20-git-commands-that-will-make-you-a-version-control-pro-149p)<br>
   - [https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/](https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/)<br>
+  - [https://www.thisdot.co/blog/git-basics-diff-and-stash](https://www.thisdot.co/blog/git-basics-diff-and-stash)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
