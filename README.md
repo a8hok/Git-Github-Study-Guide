@@ -8,6 +8,7 @@
   - [https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/](https://www.paulsblog.dev/write-better-git-commit-messages-to-increase-your-productivity/)<br>
   - [https://www.thisdot.co/blog/git-basics-diff-and-stash](https://www.thisdot.co/blog/git-basics-diff-and-stash)<br>
   - [https://initialcommit.com/blog/git-sim](https://initialcommit.com/blog/git-sim)<br>
+  - [https://stackabuse.com/git-rebase-command/](https://stackabuse.com/git-rebase-command/)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
