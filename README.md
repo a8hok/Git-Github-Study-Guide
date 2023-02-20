@@ -15,3 +15,6 @@
  
 ## Git do's and dont's
   - [https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)<br>
+
+##Open source contribution
+- [https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github](https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github)<br>
