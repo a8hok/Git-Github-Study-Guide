@@ -20,3 +20,4 @@
 
 ##Open source contribution
 - [https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github](https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github)<br>
+- [https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5](https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5)<br>
