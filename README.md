@@ -9,6 +9,7 @@
   - [https://www.thisdot.co/blog/git-basics-diff-and-stash](https://www.thisdot.co/blog/git-basics-diff-and-stash)<br>
   - [https://initialcommit.com/blog/git-sim](https://initialcommit.com/blog/git-sim)<br>
   - [https://stackabuse.com/git-rebase-command/](https://stackabuse.com/git-rebase-command/)<br>
+  - [https://blog.greenroots.info/top-10-git-commands-every-developer-should-know](https://blog.greenroots.info/top-10-git-commands-every-developer-should-know)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
@@ -18,6 +19,6 @@
 ## Git do's and dont's
   - [https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)<br>
 
-##Open source contribution
+## Open source contribution
 - [https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github](https://blog.pradumnasaraf.dev/how-to-find-an-open-source-project-to-contribute-to-on-github)<br>
 - [https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5](https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5)<br>
