@@ -11,6 +11,7 @@
   - [https://stackabuse.com/git-rebase-command/](https://stackabuse.com/git-rebase-command/)<br>
   - [https://blog.greenroots.info/top-10-git-commands-every-developer-should-know](https://blog.greenroots.info/top-10-git-commands-every-developer-should-know)<br>
   - [https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/](https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/)<br>
+  - [https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785](https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
