@@ -13,6 +13,7 @@
   - [https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/](https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/)<br>
   - [https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785](https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785)<br>
   - [https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g](https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g)<br>
+  - [https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
