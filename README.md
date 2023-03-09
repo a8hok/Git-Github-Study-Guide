@@ -14,11 +14,13 @@
   - [https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785](https://proandroiddev.com/code-commit-guidelines-using-conventional-commits-379321ce3785)<br>
   - [https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g](https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g)<br>
   - [https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)<br>
+  - [https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn](https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
   - [https://blog.pradumnasaraf.dev/6-git-commands-you-may-not-know](https://blog.pradumnasaraf.dev/6-git-commands-you-may-not-know)<br>
   - [https://hackernoon.com/git-explained-in-5-levels-of-difficulty](https://hackernoon.com/git-explained-in-5-levels-of-difficulty)<br>
+  
  
 ## Git do's and dont's
   - [https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)<br>
