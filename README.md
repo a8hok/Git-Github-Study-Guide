@@ -15,6 +15,7 @@
   - [https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g](https://dev.to/bdougieyo/ai-generated-git-commit-messages-4j7g)<br>
   - [https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)<br>
   - [https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn](https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn)<br>
+  - [https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/](https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
