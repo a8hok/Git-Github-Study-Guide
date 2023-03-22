@@ -22,6 +22,7 @@
   - [https://blog.pradumnasaraf.dev/6-git-commands-you-may-not-know](https://blog.pradumnasaraf.dev/6-git-commands-you-may-not-know)<br>
   - [https://hackernoon.com/git-explained-in-5-levels-of-difficulty](https://hackernoon.com/git-explained-in-5-levels-of-difficulty)<br>
   - [https://itnext.io/writing-better-commits-6a1691c12772](https://itnext.io/writing-better-commits-6a1691c12772)<br>
+  - [https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)<br>
   
  
 ## Git do's and dont's
