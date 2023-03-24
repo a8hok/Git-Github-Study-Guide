@@ -16,6 +16,7 @@
   - [https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h](https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h)<br>
   - [https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn](https://dzone.com/articles/top-11-git-commands-that-every-developer-should-kn)<br>
   - [https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/](https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/)<br>
+  - [https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2](https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
