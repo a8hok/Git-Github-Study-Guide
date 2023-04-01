@@ -26,6 +26,7 @@
   - [https://itnext.io/writing-better-commits-6a1691c12772](https://itnext.io/writing-better-commits-6a1691c12772)<br>
   - [https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68](https://dev.to/this-is-learning/what-the-fork-are-you-doing-4n68)<br>
   - [https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/](https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/)<br>
+  - [https://medium.com/@ishahmeer/20-git-commands-that-will-make-you-a-version-control-pro-1481a55c37b1](https://medium.com/@ishahmeer/20-git-commands-that-will-make-you-a-version-control-pro-1481a55c37b1)<br>
   
  
 ## Git do's and dont's
