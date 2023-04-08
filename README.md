@@ -18,6 +18,7 @@
   - [https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/](https://blog.openreplay.com/building-professional-docs-sites-from-github-readme-files/)<br>
   - [https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2](https://enlear.academy/it-commands-every-developer-should-know-c4ac661f0f2)<br>
   - [https://blog.ossph.org/a-beginners-guide-to-contributing-to-open-source-projects/](https://blog.ossph.org/a-beginners-guide-to-contributing-to-open-source-projects/)<br>
+  - [https://www.freecodecamp.org/news/git-branching-commands-explained/](https://www.freecodecamp.org/news/git-branching-commands-explained/)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
