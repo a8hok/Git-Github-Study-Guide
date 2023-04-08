@@ -39,3 +39,4 @@
 - [https://himanshubalani.hashnode.dev/10-reasons-why-you-should-contribute-to-open-source-on-github-today](https://himanshubalani.hashnode.dev/10-reasons-why-you-should-contribute-to-open-source-on-github-today)<br>
 - [https://blog.ossph.org/benefits-of-developing-open-source-projects/](https://blog.ossph.org/benefits-of-developing-open-source-projects/)<br>
 - [https://blog.ossph.org/top-github-open-source-projects-with-most-stars/](https://blog.ossph.org/top-github-open-source-projects-with-most-stars/)<br>
+- [https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source](https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source)<br>
