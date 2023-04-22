@@ -30,6 +30,7 @@
   - [https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/](https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/)<br>
   - [https://medium.com/@ishahmeer/20-git-commands-that-will-make-you-a-version-control-pro-1481a55c37b1](https://medium.com/@ishahmeer/20-git-commands-that-will-make-you-a-version-control-pro-1481a55c37b1)<br>
   - [https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)<br>
+  - [https://earthly.dev/blog/advanced-git-commands/](https://earthly.dev/blog/advanced-git-commands/)<br>
   
  
 ## Git do's and dont's
