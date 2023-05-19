@@ -32,6 +32,7 @@
   - [https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7](https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7)<br>
   - [https://earthly.dev/blog/advanced-git-commands/](https://earthly.dev/blog/advanced-git-commands/)<br>
   - [https://nazninparveen.hashnode.dev/advance-git-github-for-devops-engineers-part-3](https://nazninparveen.hashnode.dev/advance-git-github-for-devops-engineers-part-3)<br>
+  - [https://code.tutsplus.com/tutorials/getting-started-with-github-copilot-in-visual-studio-code--cms-107081](https://code.tutsplus.com/tutorials/getting-started-with-github-copilot-in-visual-studio-code--cms-107081)<br>
   
  
 ## Git do's and dont's
