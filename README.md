@@ -35,6 +35,7 @@
   - [https://code.tutsplus.com/tutorials/getting-started-with-github-copilot-in-visual-studio-code--cms-107081](https://code.tutsplus.com/tutorials/getting-started-with-github-copilot-in-visual-studio-code--cms-107081)<br>
   - [https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn](https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn)<br>
   - [https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o](https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o)<br>
+  - [https://www.showwcase.com/show/35553/git-foundations](https://www.showwcase.com/show/35553/git-foundations)<br>
   
  
 ## Git do's and dont's
