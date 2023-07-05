@@ -36,6 +36,7 @@
   - [https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn](https://dev.to/syedsadiqali/mastering-git-top-commands-every-developer-should-know-5hkn)<br>
   - [https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o](https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o)<br>
   - [https://www.showwcase.com/show/35553/git-foundations](https://www.showwcase.com/show/35553/git-foundations)<br>
+  - [https://www.freecodecamp.org/news/git-rebase-handbook/](https://www.freecodecamp.org/news/git-rebase-handbook/)<br>
   
  
 ## Git do's and dont's
