@@ -38,6 +38,7 @@
   - [https://www.showwcase.com/show/35553/git-foundations](https://www.showwcase.com/show/35553/git-foundations)<br>
   - [https://www.freecodecamp.org/news/git-rebase-handbook/](https://www.freecodecamp.org/news/git-rebase-handbook/)<br>
   - [https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/?ref=dailydev](https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/?ref=dailydev)<br>
+  - [https://www.freecodecamp.org/news/gitting-things-done-book/](https://www.freecodecamp.org/news/gitting-things-done-book/)<br>
   
  
 ## Git do's and dont's
