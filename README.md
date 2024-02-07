@@ -39,6 +39,7 @@
   - [https://www.freecodecamp.org/news/git-rebase-handbook/](https://www.freecodecamp.org/news/git-rebase-handbook/)<br>
   - [https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/?ref=dailydev](https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/gitting-things-done-book/](https://www.freecodecamp.org/news/gitting-things-done-book/)<br>
+  - [https://adamj.eu/tech/2024/01/29/git-bisect-basics/?ref=dailydev](https://adamj.eu/tech/2024/01/29/git-bisect-basics/?ref=dailydev)<br>
   
  
 ## Git do's and dont's
