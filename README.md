@@ -1,4 +1,14 @@
-## To know about git commands
+## Git & Github Study Guide
+
+## **Table of Content**
+- [To know about Git & Github](#to-know-about-git---github)
+- [Git basics](#git-basics)
+- [Git advanced](#git-advanced)
+- [Git do's and dont's](#git-do-s-and-dont-s)
+- [Open source contribution](#open-source-contribution)
+- [Git tips and tricks](#git-tips-and-tricks)
+- [Git Source](#git-source)
+
 
 ## Git basics
   - [https://dev.to/dumboprogrammer/git-in-10-mins-519g](https://dev.to/dumboprogrammer/git-in-10-mins-519g)<br>
