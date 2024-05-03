@@ -64,6 +64,7 @@
 - [https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source](https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source)<br>
 - [https://itspp.hashnode.dev/how-to-find-open-source-projects](https://itspp.hashnode.dev/how-to-find-open-source-projects)<br>
 - [https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects](https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects)<br>
+- [https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev](https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev)<br>
 
 ## Git tips and tricks
 - [https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev](https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev)<br>
