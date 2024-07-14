@@ -53,6 +53,7 @@
   - [https://www.freecodecamp.org/news/gitting-things-done-book/](https://www.freecodecamp.org/news/gitting-things-done-book/)<br>
   - [https://adamj.eu/tech/2024/01/29/git-bisect-basics/?ref=dailydev](https://adamj.eu/tech/2024/01/29/git-bisect-basics/?ref=dailydev)<br>
   - [https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/?ref=dailydev](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/?ref=dailydev)<br>
+  - [https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8?ref=dailydev](https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8?ref=dailydev)<br>
   
  
 ## Git do's and dont's
