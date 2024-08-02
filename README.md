@@ -77,6 +77,7 @@
 - [https://github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)<br>
 - [https://antonz.org/git-by-example/?ref=dailydev](https://antonz.org/git-by-example/?ref=dailydev)<br>
 - [https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5?ref=dailydev](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5?ref=dailydev)<br>
+- [https://devdojo.com/bobbyiliev/open-source-introduction-to-git-and-github-ebook](https://devdojo.com/bobbyiliev/open-source-introduction-to-git-and-github-ebook)<br>
 
 ## Git Commit tips
 - [https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev)<br>
