@@ -32,6 +32,7 @@
   - [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)<br>
   - [https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/?ref=dailydev](https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/?ref=dailydev)<br>
   - [https://towardsdev.com/git-for-absolute-beginners-e1da60e10029](https://towardsdev.com/git-for-absolute-beginners-e1da60e10029)<br>
+  - [https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/](https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
