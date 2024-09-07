@@ -70,6 +70,7 @@
 - [https://itspp.hashnode.dev/how-to-find-open-source-projects](https://itspp.hashnode.dev/how-to-find-open-source-projects)<br>
 - [https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects](https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects)<br>
 - [https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev](https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)<br>
 
 ## Git tips and tricks
 - [https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev](https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev)<br>
