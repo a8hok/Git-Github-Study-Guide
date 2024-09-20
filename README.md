@@ -71,6 +71,7 @@
 - [https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects](https://blogsbyhimanshu.hashnode.dev/struggling-to-find-open-source-projects)<br>
 - [https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev](https://www.freecodecamp.org/news/create-personalized-github-profile-page/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/](https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/)<br>
+- [https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac?ref=dailydev](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac?ref=dailydev)<br>
 
 ## Git tips and tricks
 - [https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev](https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev)<br>
