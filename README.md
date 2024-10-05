@@ -1,13 +1,15 @@
 ## Git & Github Study Guide
 
-## **Table of Content**
-- [To know about Git & Github](#to-know-about-git---github)
+# Table of contents
+
 - [Git basics](#git-basics)
 - [Git advanced](#git-advanced)
-- [Git do's and dont's](#git-do-s-and-dont-s)
+- [Git do's and dont's](#git-dos-and-donts)
 - [Open source contribution](#open-source-contribution)
 - [Git tips and tricks](#git-tips-and-tricks)
 - [Git Source](#git-source)
+- [Git Commit tips](#git-commit-tips)
+- [Github Actions](#github-actions)
 
 
 ## Git basics
