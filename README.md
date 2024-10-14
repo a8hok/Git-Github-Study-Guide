@@ -88,6 +88,7 @@
 
 ## Git Commit tips
 - [https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev)<br>
+- [https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc?ref=dailydev](https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc?ref=dailydev)<br>
 
 ## Github Actions
 - [https://spacelift.io/blog/github-actions-tutorial?ref=dailydev](https://spacelift.io/blog/github-actions-tutorial?ref=dailydev)<br>
