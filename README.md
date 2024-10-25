@@ -80,6 +80,7 @@
 
 ## Git tips and tricks
 - [https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev](https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev)<br>
+- [https://antonz.org/git-by-example/?ref=dailydev](https://antonz.org/git-by-example/?ref=dailydev)<br>
 
 ## Git Source
 - [https://github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)<br>
