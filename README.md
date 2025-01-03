@@ -59,6 +59,7 @@
   - [https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8?ref=dailydev](https://dev.to/iamcymentho/git-commands-for-software-engineers-51n8?ref=dailydev)<br>
   - [https://prismic.io/blog/git-cheat-sheet?ref=dailydev](https://prismic.io/blog/git-cheat-sheet?ref=dailydev)<br>
   - [https://henriqueleite42.com/git-the-perfect-gitflow?ref=dailydev](https://henriqueleite42.com/git-the-perfect-gitflow?ref=dailydev)<br>
+  - [https://dev.to/jagroop2001/20-git-command-line-tricks-every-developer-should-know-1i21?ref=dailydev](https://dev.to/jagroop2001/20-git-command-line-tricks-every-developer-should-know-1i21?ref=dailydev)<br>
   
  
 ## Git do's and dont's
