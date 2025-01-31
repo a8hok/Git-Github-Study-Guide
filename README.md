@@ -93,6 +93,7 @@
 ## Git Commit tips
 - [https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp?ref=dailydev)<br>
 - [https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc?ref=dailydev](https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc?ref=dailydev)<br>
+- [https://levelup.gitconnected.com/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-6e96ab6357fa](https://levelup.gitconnected.com/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-6e96ab6357fa)<br>
 
 ## Github Actions
 - [https://spacelift.io/blog/github-actions-tutorial?ref=dailydev](https://spacelift.io/blog/github-actions-tutorial?ref=dailydev)<br>
