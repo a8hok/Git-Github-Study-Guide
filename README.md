@@ -89,6 +89,7 @@
 - [https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev](https://blog.gitbutler.com/git-tips-and-tricks/?ref=dailydev)<br>
 - [https://antonz.org/git-by-example/?ref=dailydev](https://antonz.org/git-by-example/?ref=dailydev)<br>
 - [https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev)<br>
+- [https://bartwullems.blogspot.com/2025/04/git-cherry-picking.html?ref=dailydev](https://bartwullems.blogspot.com/2025/04/git-cherry-picking.html?ref=dailydev)<br>
 
 ## Git Source
 - [https://github.com/pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)<br>
