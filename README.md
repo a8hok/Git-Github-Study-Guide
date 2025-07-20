@@ -67,6 +67,7 @@
   - [https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn?ref=dailydev](https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn?ref=dailydev)<br>
   - [https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)<br>
   - [https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev)<br>
+  - [https://github.com/mike-rambil/Advanced-Git](https://github.com/mike-rambil/Advanced-Git)<br>
   
  
 ## Git do's and dont's
