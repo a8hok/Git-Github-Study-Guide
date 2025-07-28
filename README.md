@@ -108,3 +108,6 @@
 ## Github Actions
 - [https://spacelift.io/blog/github-actions-tutorial?ref=dailydev](https://spacelift.io/blog/github-actions-tutorial?ref=dailydev)<br>
 - [https://adventofdocker.com/posts/day-17-github-actions/?ref=dailydev](https://adventofdocker.com/posts/day-17-github-actions/?ref=dailydev)<br>
+
+## Github Branching
+- [https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev)<br>
