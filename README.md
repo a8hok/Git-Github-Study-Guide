@@ -112,3 +112,6 @@
 
 ## Github Branching
 - [https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev)<br>
+
+## Git rebase
+- [https://alchemists.io/articles/git_rebase_drop?ref=dailydev](https://alchemists.io/articles/git_rebase_drop?ref=dailydev)<br>
