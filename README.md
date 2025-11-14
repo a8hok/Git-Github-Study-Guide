@@ -115,3 +115,6 @@
 
 ## Git rebase
 - [https://alchemists.io/articles/git_rebase_drop?ref=dailydev](https://alchemists.io/articles/git_rebase_drop?ref=dailydev)<br>
+
+## Git tools
+- [https://www.bwplotka.dev/2025/lazygit/?ref=dailydev](https://www.bwplotka.dev/2025/lazygit/?ref=dailydev)<br>
