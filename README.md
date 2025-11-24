@@ -36,6 +36,7 @@
   - [https://towardsdev.com/git-for-absolute-beginners-e1da60e10029](https://towardsdev.com/git-for-absolute-beginners-e1da60e10029)<br>
   - [https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/](https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/)<br>
   - [https://alchemists.io/articles/git_rebase_pick?ref=dailydev](https://alchemists.io/articles/git_rebase_pick?ref=dailydev)<br>
+  - [https://newsletter.systemdesign.one/p/commands-in-git?ref=dailydev](https://newsletter.systemdesign.one/p/commands-in-git?ref=dailydev)<br>
 
 ## Git advanced
   - [https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)<br>
