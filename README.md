@@ -70,6 +70,7 @@
   - [https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev](https://dev.to/karmpatel/git-branching-strategies-a-comprehensive-guide-24kh?ref=dailydev)<br>
   - [https://github.com/mike-rambil/Advanced-Git](https://github.com/mike-rambil/Advanced-Git)<br>
   - [https://jsdev.space/git-time-saving-commands/?ref=dailydev](https://jsdev.space/git-time-saving-commands/?ref=dailydev)<br>
+  - [https://freedium-mirror.cfd/https://mammadyahya.medium.com/become-a-senior-at-git-with-these-100-tips-23cfa984a4a0#tip-19-name-branches-consistently](https://freedium-mirror.cfd/https://mammadyahya.medium.com/become-a-senior-at-git-with-these-100-tips-23cfa984a4a0#tip-19-name-branches-consistently)<br>
   
  
 ## Git do's and dont's
